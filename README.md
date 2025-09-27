@@ -31,10 +31,6 @@
 
 ### **Quick Setup**
 1. Clone and open the repository:
-   ```bash
-   git clone https://github.com/PLP-Database-DEPT/swt-w1.git
-   cd swt-w1
-   code .
 
 2. Open todo-tracker.html in VS Code's Explorer (Ctrl+Shift+E), right-click, and select Open with Live Server.
 ---
